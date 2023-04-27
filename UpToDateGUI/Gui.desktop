@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GuI
+Comment=Run the GUI
+Terminal=false
+Exec=python3 /home/test4/Desktop/GUI/Updatedgui.py &
+Icon=/home/test4/Desktop/GUI/Dynamism.Life-1.1.png
+Type=Application
+Categories=Utility;
